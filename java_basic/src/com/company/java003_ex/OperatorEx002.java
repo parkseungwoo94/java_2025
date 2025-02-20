@@ -5,22 +5,15 @@ import java.util.Scanner;
 public class OperatorEx002 {
 	public static void main(String[] args) {
 		int x=5;
-		System.out.println("q1 :"+ (x>3 && x<10) );     //##
+		System.out.println(" q1 :"+ (x>3 && x<10) );     //##
+		
 		char ch = ' ';
 		ch= 'a';
-		System.out.println( "q2: " + ( ch=='a' || ch=='A' ) );    //##
-		System.out.println( "q3: " + (ch>='0'  && ch<='9' ) );
-		System.out.println( "q4: " + (ch>='A'  && ch<='Z' || ch>='a' && ch<='z' ) );
+		System.out.println( "\n q2: " + ( ch=='a'  ||  ch=='A' ) );    //##
+		System.out.println( "\n q3: " + ( ch>='0'  &&  ch<='9' ) );
+		System.out.println( "\n q4: " + ( ch>='A'  &&  ch<='Z' || ch>='a' &&  ch<='z' ) );
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 		/*
 		 * 연습문제4)
