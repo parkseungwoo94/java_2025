@@ -7,6 +7,7 @@ switch(a) 는 if(a==0) 개념과 같다.
 
 ### 2 2025 2 21
 for 반복문 관련된걸 배움
+미니프로젝트 Bank 
 //*ID : _입력받기
 System.out.println("ID: ");
 id=scanner.next().charAt(0);
