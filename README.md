@@ -12,3 +12,7 @@ for 반복문 관련된걸 배움
 System.out.println("ID: ");
 id=scanner.next().charAt(0);
 정수는 nextInt() // 문자는 next().charAt(0); 이런 기본조차 기억을 잘 못해 문제 발생
+
+
+###3 2025 2 24
+while do while/ 배열 배움 
