@@ -16,3 +16,7 @@ id=scanner.next().charAt(0);
 
 ### 3 2025 2 24
 while do while/ 배열 배움 
+
+
+### 3 2025 2 25
+array랑 배열 배우고 2중for문 배움
